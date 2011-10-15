@@ -1,0 +1,22 @@
+# built application files
+*.apk
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+#System Generated Crap
+.DS_Store*
+Thumbs.db
+
+#Log files if any
+*.log
