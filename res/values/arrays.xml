@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="cities" >
+	    <item>New York City</item>
+	    <item>Washington</item>
+	    <item>San Francisco</item>
+	    <item>Atlanta</item>
+	    <item>Chicago</item>
+	    <item>Paris</item>
+	    <item>Nashville</item>
+	    <item>Las Vegas</item>
+	    <item>Denver</item>
+	    <item>Frankfort</item>
+	    <item>Salt Lake City</item>
+	    <item>Louisville</item>
+	    <item>Lexington</item>
+	    <item>New Delhi</item>
+	    <item>Mumbai</item>
+	    <item>Chennai</item>
+	    <item>Beijing</item>
+	    <item>Hong Kong</item>
+	    <item>Frankfurt</item>
+	    <item>Rome</item>
+	    <item>London</item>
+	    <item>Brasília</item>
+	    <item>Mexico City</item>
+	    <item>Sydney</item>
+	    <item>Melbourne</item>
+	    <item>Amsterdam</item>
+	    <item>Seoul</item>
+	    <item>Shanghai</item>
+	    <item>Cairo</item>
+	    <item>Toronto</item>
+	</string-array>
+</resources>
