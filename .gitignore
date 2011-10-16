@@ -13,6 +13,7 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+.settings/
 
 #System Generated Crap
 .DS_Store*
